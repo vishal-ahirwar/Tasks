@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>vengine.png</file>
+        <file>wallScree.png</file>
+    </qresource>
+</RCC>
